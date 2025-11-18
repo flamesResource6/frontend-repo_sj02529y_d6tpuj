@@ -1,0 +1,1 @@
+Place any project images in this folder if you don't want to use remote image URLs.
